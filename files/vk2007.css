@@ -1,0 +1,127 @@
+#pageHeader {
+    position: relative;
+    width: 791px;
+    height: 45px;
+    background-image: url(/images/xhead2.gif);
+    background-repeat: no-repeat;
+    background-color: #264D70;
+}
+#pageLayout {
+    padding: 0;
+    margin: 0px auto;
+    width: 791px;
+    text-align: left;
+}
+#home {
+    position: absolute;
+    width: 146px;
+    height: 45px;
+}
+#header {
+    font-weight: bold;
+    font-size: 11px;
+    padding: 2px 10px 5px;
+    margin: 0px;
+    background-image: url(https://web.archive.org/web/20100524025223im_/http://vkontakte.ru/images/header_yellow.gif);
+    background-position: top left;
+    background-repeat: repeat-x;
+    background-color: #EEE5B8;
+    color: black;
+    border-right: solid 1px #DCD4A4;
+    border-left: solid 1px #E4DDB4;
+    border-bottom: solid 1px #D7CF9E;
+}
+#header h1 {
+    font-size: 11px;
+}
+#sideBar {
+    margin: 5px 0px 0px 5px;
+    float: left;
+    padding-bottom: 10px;
+    width: 127px;
+}
+#quickLogin label {
+    display: block;
+    padding: 0px 0px 2px;
+    margin: 0px;
+    color: gray;
+    font-weight: 100;
+}
+#quickLogin .inputText {
+    width: 115px;
+    margin-bottom: 4px;
+}
+button#reg {
+    display: block;
+    color: #FFF;
+    margin-right: 3px;
+    background-color: #36638E;
+    border-bottom: 1px solid #eee;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 8px;
+    font-size: 11px;
+}
+a.buttonreg {
+    border-radius: 4px;
+    padding: 2px 8px 1px 8px !important;
+}
+ul.topNav a {
+    font-size: 11px;
+    display: block;
+    padding-bottom: 0px;
+    color: #DAE1E8;
+    margin-top: -4px;
+    float: right;
+    padding: 11px 9px 11px 9px;
+    margin: 0px;
+    line-height: 41px;
+    font-weight: bold;
+    background: transparent url(/images/header_divider.gif) no-repeat top left;
+    height: 20px;
+    top: -5px;
+    position: relative;
+    line-height: 20px;
+}
+.search {
+    margin-left: -10px;
+    position: relative;
+    top: 3px;
+    left: 13px;
+}
+ul.topNav a:hover {
+    color: white;
+    background-color: #0000 !important;
+}
+text.you {
+    color: #c3b77c;
+    font-size: 10.5px;
+}
+.search {
+    margin-left: -10px;
+    position: relative;
+    top: -5px;
+    left: 13px;
+    background: transparent url(/images/header_divider.gif) no-repeat top left;
+}
+input.search {
+    width: 90px;
+    height: 11px;
+    background: url(/images/search_icon.png) no-repeat 1px 3px;
+    background-color: white;
+    padding-left: 15px;
+    position: relative;
+    top: 11px;
+    margin: 0;
+}
+input.search {
+    width: 90px;
+    height: 11px;
+    background: #fff;
+    background-color: white;
+    padding-left: 5px;
+    position: relative;
+    top: 11px;
+    margin: 0;
+    border: 1px solid;
+}
